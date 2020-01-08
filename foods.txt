@@ -1,8 +1,14 @@
 ============= Food list =============
 = Created 08/Jan/2020 ===============
+
+-- Meals
+> Hamburger
 > Pizza
+> French Fries
+> Sushi
+
+--Desserts
 > Donuts
 > Cookies
-> Hamburger
-> French Fries
 > Cake
+> Cinnamon Rolls
