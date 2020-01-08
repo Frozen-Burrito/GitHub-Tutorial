@@ -1,14 +1,14 @@
-============= Food list =============
+========= Healthy Food list =========
 = Created 08/Jan/2020 ===============
 
 -- Meals
-> Hamburger
-> Pizza
-> French Fries
-> Sushi
+> Salad
+> Rice
+> Sandwich
+> Chicken
 
 --Desserts
-> Donuts
-> Cookies
-> Cake
-> Cinnamon Rolls
+> Chocolate
+> Homemade cookies
+> Fruit milkshake
+> Pie
